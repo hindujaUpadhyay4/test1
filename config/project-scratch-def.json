@@ -1,0 +1,23 @@
+{
+  "orgName": "Package Dev Org",
+  "edition": "Enterprise",
+  "features": [
+    "MaxApexCodeSize:10"
+  ],
+  "settings": {
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": true
+    },
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "securitySettings": {
+      "sessionSettings": {
+        "sessionTimeout": "TwelveHours"
+      }
+    }
+  }
+}

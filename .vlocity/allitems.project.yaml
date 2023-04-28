@@ -1,0 +1,14 @@
+Name: allItems
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - VlocityCard/cpqAssetViewerContainer
+    - lwc/cfCpqAssetViewerContainer
+    - flexipages/Vlocity_Enterprise_Sales_App_UtilityBar.flexipage
+VlocityTypesToFetch:
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - FlexiPage
+    - LightningComponentBundle
+    - Profile

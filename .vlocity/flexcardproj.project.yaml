@@ -1,0 +1,7 @@
+Name: FlexCardProj
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - VlocityCard/cpqAssetViewerContainer
+VlocityTypesToFetch:
+    - VlocityCard
+SalesforceTypesToFetch:
